@@ -1,5 +1,8 @@
 _repo: The-Unpopular-Review-Vol-2-No-4-October-December-1914-including-Vol-2-Index_51679
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 51679-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '9483'
     url: http://www.gutenberg.org/2009/agents/9483
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51679#The-Unpopular-Review-Vol-2-No-4-October-December-1914-including-Vol-2-Index
 gutenberg_issued: '2016-04-06'
 gutenberg_type: Text
 identifiers:
